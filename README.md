@@ -1,6 +1,6 @@
 # Basic Setup
 Download the Fabric Launcher at https://fabricmc.net/use/installer/
-(if using the jar installer, you might need to download Java)
+(if using the jar installer, you might need to download Java as well)
 
 Run it and select the current server version to create a profile for.
 
@@ -10,6 +10,7 @@ Place all .jar files in your `C:\Users\<usr>\AppData\Roaming\.minecraft\mods` fo
 
 # Mac
 Place all .jar files in your `~/Library/Application Support/minecraft/Mods` folder.
+
 Due to a [permissions conflict](https://modrepo.de/minecraft/voicechat/wiki/macos), Voice Chat cannot use your microphone through the Minecraft Launcher. Instead, use [Prism Launcher](https://prismlauncher.org/)
 
 # Included Mods
