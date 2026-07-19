@@ -19,6 +19,8 @@ These mods make the game run smoother.
 
 [Sodium](https://modrinth.com/mod/sodium) — rendering overhaul to improve frame rates
 
+[Krypton](https://modrinth.com/mod/krypton) — optimizes the network stack
+
 ## Simple Additions
 These mods add things without any configuration.
 
